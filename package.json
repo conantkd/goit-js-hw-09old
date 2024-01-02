@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-09",
+  "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/conantkd/goit-js-hw-09",
+  "homepage": "https://your_username.github.io/goit-js-hw-09",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/conantkd/goit-js-hw-09.git"
+    "url": "git+https://github.com/conantkd/goit-js-hw-08.git"
   },
   "keywords": [],
-  "author": "Luis Chaves<luischaves11@gmail.com>",
+  "author": "Luis Chaves <luischaves11@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/conantkd/goit-js-hw-09/issues"
+    "url": "https://github.com/conantkd-goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
