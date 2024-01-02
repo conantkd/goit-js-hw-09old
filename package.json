@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/conantkd/conantkd-goit-js-hw-09",
+  "homepage": "https://github.com/conantkd/goit-js-hw-09",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
@@ -12,23 +12,20 @@
     "url": "git+https://github.com/conantkd/goit-js-hw-09.git"
   },
   "keywords": [],
-  "author": "Luis Chaves <luischaves11@gmail.com>",
+  "author": "Luis Chaves<luischaves11@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/conantkd-goit-js-hw-09/issues"
+    "url": "https://github.com/conantkd/goit-js-hw-09/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
-    "flatpickr": "^4.6.13",
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.6",
     "simplelightbox": "^2.14.2"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
     "parcel": "^2.6.0",
-    "parcel-bundler": "^1.12.5",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
