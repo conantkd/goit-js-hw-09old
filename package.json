@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/conantkd/goit-js-hw-08.git"
+    "url": "git+https://github.com/conantkd/goit-js-hw-09.git"
   },
   "keywords": [],
   "author": "Luis Chaves <luischaves11@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/conantkd-goit-js-hw-08/issues"
+    "url": "https://github.com/conantkd-goit-js-hw-09/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
